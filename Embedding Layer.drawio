@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T11:07:13.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="lKBJnFW_ggRXkBSDw9X8" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-12T11:07:50.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="nq30cWLlsbL4t0JlEWNz" version="15.9.4" type="github">
   <diagram id="36f2195yq7t4ANF0NbtL" name="Page-1">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O5KaG1Pcih45Ifli_OOs-44" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#FF8000;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="240" width="160" height="240" as="geometry" />
+          <mxGeometry x="430" y="240" width="170" height="240" as="geometry" />
         </mxCell>
         <mxCell id="O5KaG1Pcih45Ifli_OOs-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;dashed=1;strokeColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="180" y="522.5" width="200" height="45" as="geometry" />
@@ -133,7 +133,7 @@
         <mxCell id="O5KaG1Pcih45Ifli_OOs-43" value="$$a_t$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="490" y="434" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5KaG1Pcih45Ifli_OOs-45" value="Attention layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="O5KaG1Pcih45Ifli_OOs-45" value="Attention Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="490" y="250" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="O5KaG1Pcih45Ifli_OOs-49" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;strokeColor=#FF8000;fillColor=none;" vertex="1" parent="1">
@@ -145,10 +145,10 @@
         <mxCell id="O5KaG1Pcih45Ifli_OOs-53" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Embedding&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="295" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5KaG1Pcih45Ifli_OOs-54" value="input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="O5KaG1Pcih45Ifli_OOs-54" value="Input" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="159" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O5KaG1Pcih45Ifli_OOs-55" value="output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="O5KaG1Pcih45Ifli_OOs-55" value="Output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="485" y="200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
