@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-13T02:54:08.678Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="AFEfro_ZB7qNEhf25KH1" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-13T03:32:57.024Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="JBsCdJzYT9QotyRy-Hyj" version="15.9.4" type="github">
   <diagram id="h1I-jIf15oPsMgG-KGj4" name="Page-1">
     <mxGraphModel dx="1113" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -157,7 +157,7 @@
         <mxCell id="QwG7ELGLsjSeEckzHyIb-2" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;I&lt;br style=&quot;font-size: 14px&quot;&gt;N&lt;br style=&quot;font-size: 14px&quot;&gt;P&lt;br style=&quot;font-size: 14px&quot;&gt;U&lt;br style=&quot;font-size: 14px&quot;&gt;T&lt;br style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;&lt;br style=&quot;font-size: 14px&quot;&gt;S&lt;br style=&quot;font-size: 14px&quot;&gt;E&lt;br style=&quot;font-size: 14px&quot;&gt;Q&lt;br style=&quot;font-size: 14px&quot;&gt;U&lt;br style=&quot;font-size: 14px&quot;&gt;E&lt;br style=&quot;font-size: 14px&quot;&gt;N&lt;br style=&quot;font-size: 14px&quot;&gt;C&lt;br style=&quot;font-size: 14px&quot;&gt;R&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#656565;fillColor=#E0E5DF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="380" y="266" width="30" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="QwG7ELGLsjSeEckzHyIb-4" value="Input graph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="QwG7ELGLsjSeEckzHyIb-4" value="Input Graph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="159" y="273.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QwG7ELGLsjSeEckzHyIb-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;exitX=1;exitY=1;exitDx=0;exitDy=0;shadow=0;targetPerimeterSpacing=0;strokeColor=#656565;" parent="1" source="QwG7ELGLsjSeEckzHyIb-2" edge="1">
@@ -344,7 +344,7 @@
         <mxCell id="QwG7ELGLsjSeEckzHyIb-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E0E5DF;" parent="1" vertex="1">
           <mxGeometry x="670" y="323.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QwG7ELGLsjSeEckzHyIb-48" value="Attention layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="QwG7ELGLsjSeEckzHyIb-48" value="Attention Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="435" y="273.5" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QwG7ELGLsjSeEckzHyIb-49" value="$$a_t$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" parent="1" vertex="1">
