@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T14:15:34.062Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="9-Y3Vm0FXwsRjTrY9Dpz" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T14:16:08.061Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15" etag="manrdqWvCxizyBEqnIil" version="15.9.6" type="github">
   <diagram id="h1I-jIf15oPsMgG-KGj4" name="Page-1">
     <mxGraphModel dx="946" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -205,13 +205,13 @@
           <mxGeometry x="270" y="274.5" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QwG7ELGLsjSeEckzHyIb-49" value="$$a_t$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="285" y="324.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="315" y="295" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QwG7ELGLsjSeEckzHyIb-50" value="$$d_t$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="405" y="289.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="405" y="295" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QwG7ELGLsjSeEckzHyIb-51" value="&lt;font style=&quot;font-size: 12px&quot;&gt;$$P(y_{t+1}| Y_t,X_t)$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="465" y="289.5" width="110" height="30" as="geometry" />
+          <mxGeometry x="465" y="295" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QwG7ELGLsjSeEckzHyIb-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=6;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;fontSize=12;targetPerimeterSpacing=0;strokeColor=#656565;strokeWidth=1;" parent="1" source="QwG7ELGLsjSeEckzHyIb-65" edge="1">
           <mxGeometry relative="1" as="geometry">
